@@ -1,0 +1,9 @@
+2024-05-02 12:21:38 - Deleting file: public/index.css
+2024-05-02 12:21:38 - Deleting directory: public/images
+2024-05-02 12:21:38 - Creating directory: public/images
+2024-05-02 12:21:38 - Copying static/images to public/images
+2024-05-02 12:23:22 - Deleting file: public/index.css
+2024-05-02 12:23:22 - Deleting directory: public/images
+2024-05-02 12:23:22 - Copying static/index.css to public/index.css
+2024-05-02 12:23:22 - Creating directory: public/images
+2024-05-02 12:23:22 - Copying static/images/rivendell.png to public/images/rivendell.png
